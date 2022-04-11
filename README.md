@@ -1,0 +1,2 @@
+# BC29_JS_BAITAP1
+5 bai 
